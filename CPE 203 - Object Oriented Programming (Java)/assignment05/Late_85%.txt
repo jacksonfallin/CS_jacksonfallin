@@ -1,0 +1,8 @@
+Hello Professor Foote,
+
+As requested I have sent you an email and updated my repo to include this text file and a folder, 
+containing all my .java files. If you recall, I submitted my assignment 5 two days 
+late as I felt that if I submitted it earlier, I would have received a far worse 
+score than 85%.
+
+-Jackson Fallin 

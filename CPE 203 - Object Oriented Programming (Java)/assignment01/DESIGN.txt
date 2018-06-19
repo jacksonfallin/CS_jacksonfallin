@@ -1,0 +1,10 @@
+To better organize all of the code, I found it best to place the methods within 
+functions.java into their respective classes. I did this by first analyzing 
+the parameters of the original methods and placed them within the class. For 
+example, 'executeAction' had parameters 'Action action' and 'EventScheduler 
+scheduler'. I placed this method within the Action class, removed the param 'Action
+action' and replaced all action calls within the method to 'this'. I did this for 
+all methods as well as all functions assiting the original methods (ie. 'setAlpha'). 
+It really was not too difficult, more time consuming really. As for the 
+functions class, I ultimetly removed everything from the class as I felt there was
+a suitable place for everything. 

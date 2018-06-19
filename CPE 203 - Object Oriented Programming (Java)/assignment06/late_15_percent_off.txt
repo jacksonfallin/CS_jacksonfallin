@@ -1,0 +1,6 @@
+Hi Dr. Foote,
+
+I had to place my Assignemnt 7 in this repo as the assignment-7 my origonal assignemnt-7 repo was not working. If you could please 
+re run the auto grader that would be appreciated. Sorry for another late assignment; my life is kind of a mess right now and it usually takes me a while to wrap my head around this kind of stuff. Thank you.
+
+-Jackson Fallin

@@ -1,0 +1,4 @@
+class ScannerException
+    extends Exception
+{
+}
